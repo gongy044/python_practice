@@ -23,4 +23,4 @@ def is_phone_number(text):
     return True
 
 print (is_phone_number('123-442-4342'))
-print (is_phone_number('I don\'t want to learn python'))
+print (is_phone_number('I don\'t want to learn python')
