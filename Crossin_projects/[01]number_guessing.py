@@ -30,7 +30,6 @@ def number_comparing(a, b):
 		print ('you did it, now your score is %d'%(score))
 		_continue = input('one more round? y/n >>>  ')
 		if _continue == 'y':
-			a = randint(1, 8)
 			return False
 		else:
 			result = ''
